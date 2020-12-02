@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_player_view.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_player_view.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_styled_player_control_view.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_styled_player_control_view.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_player_control_view.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_player_control_view.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_styled_settings_list.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_styled_settings_list.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_track_selection_dialog.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_styled_player_view.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_styled_player_view.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_styled_settings_list_item.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_styled_settings_list_item.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_styled_sub_settings_list_item.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_styled_sub_settings_list_item.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_styled_embedded_transport_controls.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_styled_embedded_transport_controls.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/exo_list_divider.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/layout/exo_list_divider.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/e6136a10af3ee9257350fa5333baeca2/media-1.0.1/res/layout/notification_template_media.xml"
+    }
+]

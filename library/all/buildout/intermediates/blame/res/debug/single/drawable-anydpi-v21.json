@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_next.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_next.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_previous.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_previous.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_rewind.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_rewind.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_rewind.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_rewind.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_fastforward.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_subtitle_on.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_subtitle_on.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_stop.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_stop.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_skip_previous.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_shuffle_on.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_shuffle_on.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_fullscreen_exit.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_chevron_left.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_chevron_left.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_play_circle_filled.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_play_circle_filled.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_forward.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_forward.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_repeat_all.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_repeat_all.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_pause.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_pause.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_repeat_off.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_repeat_off.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_audiotrack.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_audiotrack.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_fullscreen_enter.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_play.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_play.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_chevron_right.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_chevron_right.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_check.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_check.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_shuffle_off.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_shuffle_off.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_skip_next.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_skip_next.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_icon_repeat_one.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_icon_repeat_one.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_settings.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_settings.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_subtitle_off.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_subtitle_off.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_speed.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_speed.xml"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/all/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/exo_ic_default_album_image.xml",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/packaged_res/debug/drawable-anydpi-v21/exo_ic_default_album_image.xml"
+    }
+]

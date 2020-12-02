@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_skip_previous.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_skip_previous.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_audiotrack.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_audiotrack.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_subtitle_off.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_subtitle_off.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_shuffle_off.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_pause.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_rewind.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_next.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_forward.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_forward.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_stop.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_vr.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_vr.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_rewind.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_rewind.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_fullscreen_exit.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_fullscreen_enter.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_subtitle_on.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_subtitle_on.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_settings.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_settings.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_repeat_all.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_repeat_one.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_default_album_image.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_default_album_image.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_chevron_right.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_chevron_right.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_pause_circle_filled.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_pause_circle_filled.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_fullscreen_exit.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_previous.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_speed.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_speed.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/wangyu/.gradle/caches/transforms-2/files-2.1/69360661eb096cce81626527286b07d1/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_play_circle_filled.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_play_circle_filled.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_play.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_shuffle_on.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_circular_play.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_circular_play.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_fullscreen_enter.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_chevron_left.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_chevron_left.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_fastforward.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_skip_next.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_skip_next.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_ic_check.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_ic_check.png"
+    },
+    {
+        "merged": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_icon_repeat_off.png",
+        "source": "/Users/wangyu/Downloads/ExoPlayer-release-v2/library/ui/src/main/res/drawable-xhdpi/exo_icon_repeat_off.png"
+    }
+]

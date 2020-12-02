@@ -1,11 +1,13 @@
-apply plugin: 'com.android.application'
+apply from: '../constants.gradle'
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.swbyte.tv.testvideo"
+//        applicationId "com.swbyte.tv.testvideo"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
@@ -26,7 +28,10 @@ dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-    implementation 'com.google.android.exoplayer:exoplayer:2.8.4'
     implementation 'com.google.code.gson:gson:2.8.6'
-    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation project(modulePrefix + 'library-core')
+    implementation project(modulePrefix + 'library-dash')
+    implementation project(modulePrefix + 'library-hls')
+    implementation project(modulePrefix + 'library-smoothstreaming')
+    implementation project(modulePrefix + 'library-ui')
 }

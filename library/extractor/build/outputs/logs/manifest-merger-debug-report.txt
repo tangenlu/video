@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml:17:1-62
+INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml:17:1-62
+INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml:17:1-62
+	package
+		ADDED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml:17:11-60
+		INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml:17:1-62
+uses-sdk
+INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Downloads/log/TestVideo/library/extractor/src/main/AndroidManifest.xml

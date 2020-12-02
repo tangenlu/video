@@ -12,21 +12,17 @@ import androidx.annotation.Nullable;
 
 import com.google.android.exoplayer2.DefaultRenderersFactory;
 import com.google.android.exoplayer2.ExoPlaybackException;
-import com.google.android.exoplayer2.ExoPlayerFactory;
 import com.google.android.exoplayer2.PlaybackParameters;
 import com.google.android.exoplayer2.Player;
 import com.google.android.exoplayer2.SimpleExoPlayer;
 import com.google.android.exoplayer2.Timeline;
-import com.google.android.exoplayer2.source.ExtractorMediaSource;
 import com.google.android.exoplayer2.source.MediaSource;
+import com.google.android.exoplayer2.source.ProgressiveMediaSource;
 import com.google.android.exoplayer2.source.TrackGroupArray;
-import com.google.android.exoplayer2.source.ads.AdsMediaSource;
 import com.google.android.exoplayer2.source.hls.HlsMediaSource;
 import com.google.android.exoplayer2.trackselection.AdaptiveTrackSelection;
 import com.google.android.exoplayer2.trackselection.DefaultTrackSelector;
 import com.google.android.exoplayer2.trackselection.TrackSelectionArray;
-import com.google.android.exoplayer2.ui.PlayerView;
-import com.google.android.exoplayer2.upstream.DefaultBandwidthMeter;
 import com.google.android.exoplayer2.upstream.DefaultDataSourceFactory;
 import com.google.android.exoplayer2.util.EventLogger;
 import com.google.android.exoplayer2.util.Util;
@@ -62,28 +58,26 @@ public final class MainActivity extends Activity {
         int i = Util.inferContentType(uri, null);
         DefaultDataSourceFactory defaultDataSourceFactory = new DefaultDataSourceFactory(this, "test");
         MediaSource source = null;
-        AdsMediaSource.MediaSourceFactory factory;
+
         switch (i) {
             case TYPE_HLS:
                 // 创建资源(m3u8)
-                factory = new HlsMediaSource.Factory(defaultDataSourceFactory);
+                HlsMediaSource.Factory factory = new HlsMediaSource.Factory(defaultDataSourceFactory);
                 source = factory.createMediaSource(uri);
                 break;
             case TYPE_OTHER:
                 //创建资源(mp4)
-                factory = new ExtractorMediaSource.Factory(defaultDataSourceFactory);
-                source = factory.createMediaSource(uri);
+                ProgressiveMediaSource.Factory factory1 = new ProgressiveMediaSource.Factory(defaultDataSourceFactory);
+                source = factory1.createMediaSource(uri);
                 break;
         }
 
         // 创建带宽
-        AdaptiveTrackSelection.Factory videoTrackSelectionFactory = new AdaptiveTrackSelection.Factory(new DefaultBandwidthMeter());
-        // 创建轨道选择实例
-        DefaultTrackSelector trackSelector = new DefaultTrackSelector(videoTrackSelectionFactory);
+        AdaptiveTrackSelection.Factory videoTrackSelectionFactory = new AdaptiveTrackSelection.Factory();
         // 创建播放器实例
         DefaultRenderersFactory defaultRenderersFactory = new DefaultRenderersFactory(this);
-        player = ExoPlayerFactory.newSimpleInstance(defaultRenderersFactory, trackSelector);
-        player.addAnalyticsListener(new EventLogger(trackSelector));
+        player = new SimpleExoPlayer.Builder(this, defaultRenderersFactory).build();
+        player.addAnalyticsListener(new EventLogger(new DefaultTrackSelector(videoTrackSelectionFactory)));
         playerView.setPlayer(player);
         // 准备播放
         player.prepare(source);
