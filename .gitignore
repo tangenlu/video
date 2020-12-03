@@ -12,3 +12,12 @@
 /captures
 .externalNativeBuild
 .cxx
+/app/build
+/library/all/build
+/library/common/build
+/library/core/build
+/library/dash/build
+/library/extractor/build
+/library/hls/build
+/library/smoothstreaming/build
+/library/ui/build
